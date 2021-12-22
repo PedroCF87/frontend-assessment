@@ -1,0 +1,28 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.deleteBtn {
+  max-width: 30px;
+  min-width: 30px !important;
+  padding: 5px 14px !important;
+  margin: 0 0 0 16px !important;
+  float: right;
+}
+
+.PaymentBtn {
+  width: 50% !important;
+}
